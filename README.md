@@ -2,7 +2,7 @@
 
 Kubernetes-native declarative infrastructure for Kubevirt.
 
-## What is the Cluster API Provider Kubevirt?
+## Whatis the Cluster API Provider Kubevirt?
 
 The [Cluster API](https://github.com/kubernetes-sigs/cluster-api) brings declarative Kubernetes-style APIs to cluster creation, configuration and management. The API itself is shared across multiple cloud providers allowing for true Kubevirt hybrid deployments of Kubernetes.
 
